@@ -1,13 +1,24 @@
-<h1 align="center">Hi 👋, I'm Rohit Singh</h1>
+<h1 align="center">Hi 👋, I'm Rohit Singh | MERN Stack Developer</h1>
 <h3 align="center">A passionate programmer from India</h3>
+<h3 align="center">MERN Stack Developer learning and building amazing web applications.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitsingh0318&label=Profile%20views&color=0e75b6&style=flat" alt="rohitsingh0318" /> </p>
 
-- 🌱 I’m currently learning **javascript**
+🔹🌱 Tech Stack: JavaScript | React.js | Node.js | Express.js | MongoDB | Tailwind CSS  
 
-- 💬 Ask me about **web development**
+🔹⚡ Currently Learning: React.js in depth & Tailwind CSS
 
-- ⚡ Fun fact **I think I am dumb**
+🔹⚡ Building: A large-scale project using React.js
+
+🔹⚡ Hackathons: Participating in Smart India Hackathon 2024
+
+🔹💬 Open to Collaboration: Web development projects & Hackathons
+
+-  Ask me about **web development**
+
+  📌 Portfolio: Wait...
+  
+-  💡 **Code, Build, Improve & Repeat!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
