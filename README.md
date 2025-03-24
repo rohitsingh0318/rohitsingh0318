@@ -16,7 +16,7 @@
 
 -  Ask me about **web development**
 
-  📌 Portfolio: Wait...
+  📌 **Portfolio:** Wait...
   
 -  💡 **Code, Build, Improve & Repeat!**
 
