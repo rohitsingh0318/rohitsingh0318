@@ -16,7 +16,7 @@
 
 -  Ask me about **web development**
 
-  📌 **Portfolio:** Wait...
+  📌 **Portfolio:** [Rohit-singh.me](https://www.rohit-singh.me/)
   
 -  💡 **Code, Build, Improve & Repeat!**
 
