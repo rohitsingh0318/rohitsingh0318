@@ -1,5 +1,6 @@
 ## <h1 align="center">
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+👋,+I'm+Rohit+Singh;MERN+Stack+Developer&font=monospace&size=24&color=36BCF7&center=true&width=400&height=50)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+👋,+I'm+Rohit+Singh;MERN+Stack+Developer&font=monospace&size=24&color=36BCF7&center=true&width=400&height=50&repeat=false)](https://git.io/typing-svg)
+</h1>
 </h1>(https://git.io/typing-svg)
 <h3 align="center">A passionate programmer from India</h3>
 <h3 align="center">MERN Stack Developer learning and building amazing web applications.</h3>
