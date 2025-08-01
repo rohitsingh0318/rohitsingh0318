@@ -1,4 +1,4 @@
-## <h1 align="center">
+##<h1 align="center">Hi 👋, I'm Rohit Singh | MERN Stack Developer</h1> 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+👋,+I'm+Rohit+Singh;MERN+Stack+Developer&font=monospace&size=24&color=36BCF7&center=true&width=400&height=50&repeat=false)](https://git.io/typing-svg)
 </h1>
 </h1>(https://git.io/typing-svg)
