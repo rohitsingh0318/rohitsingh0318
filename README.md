@@ -37,9 +37,10 @@
    <a href="https://leetcode.com/u/singhrohit1803/" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg" alt="LeetCode" height="30" width="40" />
   </a>
-  <a href="mailto:rohitsingh83051@gmail.com" target="_blank">
+  <a href="mailto:rohitsingh83051@gmail.com" target="_blank"> 
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Gmail" height="30" width="40" />
-  </a>
+</a>
+
 </p>
 
 
