@@ -22,19 +22,22 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.instagram.com/_rohit_singh_1803/" target="_blank">
+  <a href="[https://www.instagram.com/_rohit_singh_1803/](https://www.instagram.com/rohit_singh__1803)" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
-  <a href="https://www.hackerrank.com/rohit_cs221169" target="_blank">
+  <a href="[https://www.hackerrank.com/rohit_cs221169](https://www.hackerrank.com/profile/rohit22157cst)" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
   </a>
-  <a href="https://github.com/rohit-singh" target="_blank">
+  <a href="[https://github.com/rohit-singh](https://github.com/rohitsingh0318)" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
   </a>
-  <a href="https://www.linkedin.com/in/rohit-singh-1803/" target="_blank">
+  <a href="[https://www.linkedin.com/in/rohit-singh-1803/](https://www.linkedin.com/in/mr-rohit-singh03/)" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="mailto:rohit@example.com" target="_blank">
+   <a href="[https://leetcode.com/rohit_cs221169](https://leetcode.com/u/singhrohit1803/)" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg" alt="LeetCode" height="30" width="40" />
+  </a>
+  <a href="mailto:rohitsingh83051@gmail.com" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Gmail" height="30" width="40" />
   </a>
 </p>
