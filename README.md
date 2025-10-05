@@ -22,7 +22,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="[https://www.instagram.com/_rohit_singh_1803/](https://www.instagram.com/rohit_singh__1803)" target="_blank">
+  <a href="https://www.instagram.com/rohit_singh__1803" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
   <a href="[https://www.hackerrank.com/rohit_cs221169](https://www.hackerrank.com/profile/rohit22157cst)" target="_blank">
