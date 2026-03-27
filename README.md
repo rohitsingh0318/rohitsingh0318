@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitsingh0318&label=Profile%20views&color=0e75b6&style=flat" alt="rohitsingh0318" /> </p>
 
-🔹🌱 Tech Stack: JavaScript | React.js | Node.js | Express.js | MongoDB | Tailwind CSS  
+🔹🌱 Tech Stack: JavaScript | React.js | Next.js | Node.js | Express.js | MongoDB | Tailwind CSS | Python 
 
-🔹⚡ Currently Learning: React.js in depth & Tailwind CSS
+🔹⚡ Currently Learning: LLM, AI Agent, MCP, LangChain
 
-🔹⚡ Building: A large-scale project using React.js
+🔹⚡ Build large-scale AI projects using LLM + LangChain + Backend + DB + APIs
 
 🔹⚡ Hackathons: Participating in Smart India Hackathon 2024
 
