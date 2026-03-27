@@ -10,6 +10,8 @@
 
 🔹⚡ Build large-scale AI projects using LLM + LangChain + Backend + DB + APIs
 
+🔹⚡ Designing scalable AI systems and solving real-world problems
+
 🔹⚡ Hackathons: Participating in Smart India Hackathon 2024
 
 🔹💬 Open to Collaboration: Web development projects & Hackathons
