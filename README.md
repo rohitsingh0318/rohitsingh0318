@@ -18,14 +18,18 @@
 
 -  Ask me about **web development**
 
+ 📌 **Portfolio:** [Rohit-singh.me](https://www.rohit-singh.me/)
+
+💼 Personal portfolio website showcasing my projects, skills, experience, and professional journey in web development and software engineering.
+
+📌 **Portfolio Website:** [portfolio-rohitsingh03.vercel.app](https://portfolio-rohitsingh03.vercel.app/)
+
+🚀 Modern and responsive developer portfolio built to highlight my web development projects, technical expertise, achievements, and contact information with a clean user interface.
+
 📌 **Startup Company Website:** [R3 Lab IT Solution](https://r3labitsolution.tech/)
 
-🚀 Developed a professional startup company website for R3 Lab IT Solution, showcasing IT services, software solutions, web development expertise, and digital transformation capabilities with a modern and responsive design.
+🏢 Professional startup company website showcasing IT services, software development solutions, digital transformation expertise, and business portfolio.
 
-
-  📌 **Portfolio:** [Rohit-singh.me](https://www.rohit-singh.me/)
-
-  📌 **Portfolio:** [my-portfolio-gilt-nu-69.vercel.app](https://my-portfolio-gilt-nu-69.vercel.app/)
   
 -  💡 **Code, Build, Improve & Repeat!**
 
