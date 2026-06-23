@@ -18,6 +18,11 @@
 
 -  Ask me about **web development**
 
+📌 **Startup Company Website:** [R3 Lab IT Solution](https://r3labitsolution.tech/)
+
+🚀 Developed a professional startup company website for R3 Lab IT Solution, showcasing IT services, software solutions, web development expertise, and digital transformation capabilities with a modern and responsive design.
+
+
   📌 **Portfolio:** [Rohit-singh.me](https://www.rohit-singh.me/)
 
   📌 **Portfolio:** [my-portfolio-gilt-nu-69.vercel.app](https://my-portfolio-gilt-nu-69.vercel.app/)
